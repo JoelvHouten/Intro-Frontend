@@ -5,9 +5,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="/resources/css/style.css">
 	<link rel="shortcut icon" href="/resources/images/favicon.png" type="image/x-icon"/>
-    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
-    <link href="https://fonts.cdnfonts.com/css/kreadon" rel="stylesheet">
-    <link href="https://fonts.cdnfonts.com/css/inter" rel="stylesheet">
+   	<link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+   	<link href="https://fonts.cdnfonts.com/css/kreadon" rel="stylesheet">
+    	<link href="https://fonts.cdnfonts.com/css/inter" rel="stylesheet">
 </head>
 
 <body>
